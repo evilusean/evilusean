@@ -1,8 +1,8 @@
 ### Junior(Mid) Full Stack Web Developer 
-Full-stack web developer, data analyst, and IT specialist with a passion for building things that work (and sometimes look good).
-If I can't figure it out I will ask AI, Stack OverFlow, then the documentation, then the senior dev, in that order.
-I'm a jack-of-all-trades, master of some, and always eager to learn more.
-I know with my tech stack, I've spread myself thin, pay me and you can choose my specializeASean. What's my best programming language? The one you pay me to know. 
+Full-stack web developer, data analyst, and IT specialist with a passion for building things that work (and sometimes look good). </br>
+If I can't figure it out I will ask AI, Stack OverFlow, then the documentation, then the senior dev, in that order. </br>
+I'm a jack-of-all-trades, master of some, and always eager to learn more. </br>
+I know with my tech stack, I've spread myself thin, pay me and you can choose my specializeASean. What's my best programming language? The one you pay me to know. </br>
 
 
 <!--
