@@ -1,5 +1,5 @@
-### Junior(Mid) Full Stack Web Developer 
-I use [Arch](https://github.com/evilusean/Pysean/blob/main/Arch.BTW/DualRice1N.png), and [NeoVim](https://github.com/evilusean/Pysean/tree/main/VIM)(With [TMUX](https://github.com/evilusean/Pysean/tree/main/TMUX)), [btw](https://github.com/evilusean/Pysean/tree/main/Arch.BTW). </br>
+### Full Stack Developer 
+I use [Arch](https://github.com/evilusean/Pysean/blob/main/Arch.BTW/DualRice1N.png), and [NeoVim](https://github.com/evilusean/Pysean/tree/main/VIM)(With [NVimChad](https://nvchad.com/) and [TMUX](https://github.com/evilusean/Pysean/tree/main/TMUX)), [btw](https://github.com/evilusean/Pysean/tree/main/Arch.BTW). </br>
 
 
 <!--
