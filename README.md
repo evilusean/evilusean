@@ -1,10 +1,12 @@
 ### Junior(Mid) Full Stack Web Developer 
+I use [Arch](https://github.com/evilusean/Pysean/blob/main/Arch.BTW/DualRice1N.png), and [NeoVim](https://github.com/evilusean/Pysean/tree/main/VIM), [btw](https://github.com/evilusean/Pysean/tree/main/Arch.BTW). 
+
+
+<!--
 Full-stack web developer, data analyst, and IT specialist with a passion for building things that work (and sometimes look good). </br>
 If I can't figure it out(unlikely). I will ask AI, Stack OverFlow, then the documentation, then the senior dev, in that order. </br>
 I'm a jack-of-all-trades, master of some, and always eager to learn more. I know with my tech stack, I've spread myself thin, pay me and you can choose my specializeASean. What's my best programming language? The one you pay me to know. </br>
 
-
-<!--
 **evilusean/evilusean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
